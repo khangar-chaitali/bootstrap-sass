@@ -14,7 +14,7 @@ In your Gemfile:
 
 ```ruby
 gem 'sass-rails', '=> 3.2'
-gem 'bootstrap-sass', '~> 2.3.2.2'
+gem 'bootstrap-sass', '~> 2.3.2.3'
 ```
 
 `bundle install` and restart your server to make the files available.

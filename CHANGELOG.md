@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.3.2.3
+
+* Minor bug fix for tooltip - *Brian Kemper*
+
 ## 2.3.2.2
 
 * Allow sass-rails `>= 3.2` - *Thomas McDonald*
